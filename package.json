@@ -1,0 +1,11 @@
+{
+  "name": "toto-calendar",
+  "version": "1.0.0",
+  "description": "Wrapped TOTO calendar HTML as an Electron desktop app.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT"
+}
